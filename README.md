@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="background-color: #ffcc99; padding: 10px;">
-      <h2>Привет, меня зовут Леонид!</h2>
+     Привет, меня зовут Леонид!
     </td>
   </tr>
 </table>
