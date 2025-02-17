@@ -1,13 +1,88 @@
-## Привет, меня зовут Леонид!
-### Занимаюсь Java-разработкой.
-### Нижележащий вкладыш полностью не выдуман и отражает реальную картину обо мне!
-<img src="https://github.com/user-attachments/assets/8badbca8-7075-48d5-a1b0-2ee73e8d0804" alt="alt text" width="700" height="500">
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=LorenzoMedici78045)
-
-### Ссылки на соц.сети:
-Профиль в разработке, пока тут пустовато, но обещаю, что он будет выполнен в лучших традициях пиратского мира!
-
-![s3GW0Fm4iJ8eXoOu9AkrSw (1)](https://github.com/user-attachments/assets/3930eaa8-7011-457d-8f29-0832044b822b)
-
-
+ <!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мое Портфолио</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #415a77;
+            color: #333;
+        }
+        header {
+            background: #415a77;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background: #415a77;
+            color: #fff;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: #415a77;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background:#415a77;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .project {
+            margin-bottom: 20px;
+        }
+        .project h3 {
+            margin: 0;
+            color: #415a77;
+        }
+        .project p {
+            margin: 5px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #415a77;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Мое Портфолио</h1>
+    </header>
+    <div class="container">
+        <section id="about">
+            <h2>Обо мне</h2>
+            <p> В данный момент я занимаюсь Java-разработкой. Люблю изучение новых технологий, поездки на природу, хороших свет для фотографий на мой Pentax, а также тренировки.
+.</p>
+        </section>
+        
+        <section id="contact">
+            <h2>Контакты</h2>
+            <p>Свяжись со мной:</p>
+            <ul>
+                <li>Email: <a href="mailto:твой_email@example.com">твой_email@example.com</a></li>
+                <li>GitHub: <a href="https://github.com/твой_ник" target="_blank">github.com/твой_ник</a></li>
+                <li>LinkedIn: <a href="https://linkedin.com/in/твой_профиль" target="_blank">linkedin.com/in/твой_профиль</a></li>
+            </ul>
+        </section>
+    </div>
+    <input type="image" src="https://github.com/user-attachments/assets/8c90739b-7de2-4c35-b09d-f5ac7a6efb7c" name="myButton" height="800" width="400">
+</body>
+</html>
