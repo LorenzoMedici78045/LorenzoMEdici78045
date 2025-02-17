@@ -6,5 +6,9 @@
 ### Моя активность на ГитХабе:
 ![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user)
 
+
+Ссылки на соц.сети:
+
 ![s3GW0Fm4iJ8eXoOu9AkrSw (1)](https://github.com/user-attachments/assets/3930eaa8-7011-457d-8f29-0832044b822b)
+
 
