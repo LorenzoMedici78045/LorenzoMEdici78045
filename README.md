@@ -4,4 +4,4 @@
 
 
 
-![Моя активность за последний месяц](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoMedici78045&theme=tokyo-night&height=200)
+![Моя активность за последний месяц](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoMedici78045&theme=tokyo-night&height=400&radius=10)
