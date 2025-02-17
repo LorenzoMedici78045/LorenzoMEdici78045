@@ -1,5 +1,4 @@
 ###                                               Привет, меня зовут Леонид! Занимаюсь Java-разработкой. Нижележащий вкладыш полность не выдуман и отражает реальную картину обо мне!
-![Bez_imeni-2](https://github.com/user-attachments/assets/8badbca8-7075-48d5-a1b0-2ee73e8d0804)
 <img src="https://github.com/user-attachments/assets/8badbca8-7075-48d5-a1b0-2ee73e8d0804" alt="alt text" width="750" height="400">
 
 
