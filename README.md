@@ -3,7 +3,7 @@
 ### Нижележащий вкладыш полностью не выдуман и отражает реальную картину обо мне!
 <img src="https://github.com/user-attachments/assets/8badbca8-7075-48d5-a1b0-2ee73e8d0804" alt="alt text" width="700" height="500">
 
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=LorenzoMedici78045)]
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=LorenzoMedici78045)
 
 Ссылки на соц.сети:
 
