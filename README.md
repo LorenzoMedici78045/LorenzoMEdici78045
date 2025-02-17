@@ -5,4 +5,4 @@
 
 <audio src="https://github.com/user-attachments/assets/7de3a77a-6751-4bac-b30b-42e380fe7943" />
 
-![Uploading s3GW0Fm4iJ8eXoOu9AkrSw.gif…]()
+![s3GW0Fm4iJ8eXoOu9AkrSw](https://github.com/user-attachments/assets/5a962142-71fc-4c1f-8f1a-9706a7dcf79b)
