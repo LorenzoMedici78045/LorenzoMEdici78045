@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="background-color: #ffcc99; padding: 10px;">
+    <td style="background-color: 415a77; padding: 10px;">
      Привет, меня зовут Леонид!
     </td>
   </tr>
